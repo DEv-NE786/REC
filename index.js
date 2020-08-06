@@ -166,4 +166,4 @@ msg.delete();
 
 
 
-client.login("");
+client.login(process.env.TOKEN);
