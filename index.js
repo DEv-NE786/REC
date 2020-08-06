@@ -34,7 +34,7 @@ const dateFormat = require('dateformat');
 
 
 const prefix = "1"
-const developers = "496996678088392725"
+const developers = "706161534233083964"
 
 ////////
 
